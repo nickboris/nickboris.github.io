@@ -1,4 +1,4 @@
-# tametummy.github.io
+# Tame Tummy
 
 Tame Tummy is a mobile app designed to help people suffering from acid reflux, IBS, gastroparesis, and other digestive diseases easily organize their meals, symptoms, and more. Now live on both Android and iOS!
 
